@@ -1,5 +1,5 @@
 // set the date we're counting down to
-var target_date = new Date('Oct, 03, 2015').getTime();
+var target_date = new Date('Feb, 13, 2016').getTime();
  
 // variables for time units
 var days, hours, minutes, seconds;

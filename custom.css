@@ -1,5 +1,7 @@
 body {
-  background-image: url("https://static.paddez.com/s3/odaiba.jpg");
+  background-image: url("https://static.paddez.com/s3/rainbow-bridge.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%,100%;
   padding-top: 50px;
 }
 .starter-template {
